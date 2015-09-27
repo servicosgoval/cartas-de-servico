@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
-    <nome>Emissão da Carteira Nacional de Habilitação</nome>
+    <nome>Emissão de Segunda via de Carteira Nacional de Habilitação</nome>
     <sigla/>
     <nomes-populares>
     	<item>CNH</item>
-        <item>1ª via da CNH</item>
-        <item>1ª via da Habilitação</item>
+        <item>2ª via da CNH</item>
+        <item>2ª via da Habilitação</item>
     </nomes-populares>
     <descricao>Serviço disponível para CNH emitida no Estado de Alagoas;
 
